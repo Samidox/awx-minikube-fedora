@@ -13,3 +13,4 @@ This script automates the installation of **AWX (Ansible AWX)** on **Minikube** 
 git clone https://github.com/Samidox/awx-minikube-fedora.git
 cd awx-minikube-fedora
 chmod +x install-awx.sh
+./install_awx_minikube.sh
